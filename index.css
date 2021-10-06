@@ -1,0 +1,84 @@
+#text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 10px;
+    color: rgba(0, 0, 0, 0.87);
+    position: absolute;
+    height: 14px;
+    width: 100vw;
+    top: 0px;
+    left: 18px;
+}
+
+#textlink {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 10px;
+    color: darkviolet;
+}
+
+#main {
+    overflow-y: hidden;
+    overflow-x: scroll;
+    background-color: #F5F5F5;
+    transition-duration: 400ms;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+    transform: scale(4.0);
+    transform-origin: 0px 0px;
+    position: absolute;
+    top: 0px 0px;
+    background-image: url('./backgr.png');
+}
+
+.tileClass {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    padding: 8px 8px 8px 8px;
+    background-color: rgba(256, 256, 256, 0.6);
+    margin: 16px 16px 16px 16px;
+    color: rgba(0, 0, 0, 0.87);
+    border-radius: 2px;
+    box-shadow: 0 1.5px 3px rgba(0,0,0,0.16), 0 1.5px 3px rgba(0,0,0,0.23);
+}
+.tileTime {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    padding: 8px 8px 8px 8px;
+    background-color: rgba(256, 256, 256, 0.8);
+    margin: 16px 16px 16px 16px;
+    color: rgba(0, 0, 0, 0.54);
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1.5px 3px rgba(0,0,0,0.16), 0 1.5px 3px rgba(0,0,0,0.23);
+}
+.tileHead {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    padding: 8px 8px 8px 8px;
+    background-color: rgba(0, 0, 0, 0.6);
+    margin: 16px 16px 16px 16px;
+    color: rgba(256, 256, 256, 0.87);
+    display: flex;
+    align-items: center;
+    border-radius: 2px;
+    box-shadow: 0 1.5px 3px rgba(0,0,0,0.16), 0 1.5px 3px rgba(0,0,0,0.23);
+}
+.tileDay {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    padding: 8px 8px 8px 8px;
+    background-color: rgba(256, 256, 256, 0.6);
+    margin: 16px 16px 16px 16px;
+    display: flex;
+    align-items: center;
+    color: darkblue;    ;
+    border-radius: 2px;
+    box-shadow: 0 1.5px 3px rgba(0,0,0,0.16), 0 1.5px 3px rgba(0,0,0,0.23);
+}
