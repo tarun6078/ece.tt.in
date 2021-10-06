@@ -31,7 +31,7 @@ addLecture('Electronic Devices (Lecture)', 3, 5, 1);
 addLecture('Electronic Devices (Lecture)', 3, 4, 1);
 addLecture('Electronic Devices LabEC2(15:00-17:00), Digital System Design Lab EC1(15:00-17:00)& Signal and System Tutorial EC2(16:00-17:00)', 7, 2, 2);
 addLecture('Electronic Devices Lab EC1 ', 7, 3, 2);
-addLecture('Electronic Devices TutorialEC2(15:00-16:00), Signal and System TutorialEC1(16:00-17:00)& Digital System Design LabEC1(15:00-17:00)', 7, 5, 2);
+addLecture('Electronic Devices TutorialEC2(15:00-16:00), Signal and System TutorialEC1(16:00-17:00)& Digital System Design LabEC2(15:00-17:00)', 7, 5, 2);
 addLecture('Constitution of India (Lecture)', 1, 6, 1);
 addLecture('Electronic Devices Tutorial EC1',7, 1, 1);
 addLecture('NSS-201/NCC-201 (EC1,EC2)',4, 6, 6);
