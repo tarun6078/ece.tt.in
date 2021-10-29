@@ -37,4 +37,4 @@ addLecture('Electronic Devices Tutorial EC1',7, 1, 1);
 addLecture('NSS-201/NCC-201 (EC1,EC2)',6, 6, 6);
 addLecture('Digital System Design Tutorial EC2', 3, 6, 1);
 addLecture('Digital System Design Tutorial EC1', 4, 4, 1);
-addLecture('Digital System Design (Lecture)',6,3,1);
+addLecture('Digital System Design Tutorial',6,3,1);
