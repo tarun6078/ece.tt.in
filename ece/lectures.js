@@ -11,8 +11,9 @@ addTime('16:00 to 17:00');
 addTime('17:00 to 18:00');
 
 
-addLecture('Signal and System (Lecture)(10:00-11:00) Electronic Devices Lab EC3 (9:00-11:00)', 1, 4, 2);
+addLecture('Electronic Devices Lab EC3 (9:00-11:00)', 1, 4, 2);
 addLecture('Signal and System (Lecture)', 1, 3, 1);
+addLecture('Signal and System (Lecture)', 1, 1, 1);
 addLecture('Signal and System (Lecture)', 1, 5, 1);
 addLecture('Network Theory (Lecture)', 2, 1, 1);
 addLecture('Network Theory (Lecture)', 2, 3, 1);
