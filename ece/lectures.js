@@ -39,7 +39,7 @@ addLecture('Digital System Design Tutorial EC2', 3, 6, 1);
 addLecture('Digital System Design Tutorial EC1', 4, 4, 1);
 addLecture('Digital System Design Tutorial EC3',6,3,1);
 addLecture('Electromagnetic Waves Tutorial EC3',6,1,1);
-addLecture('Digital System Design Lab EC3(15:00-17:00)',7,1,2);
+addLecture('Digital System Design Lab EC3',7,1,2);
 addLecture('Electronic Devices Tutorial EC1',4,6,1);
 addLecture('Electronic Devices Tutorial EC2 (16:00-17:00) ',8,4,1);
 addLecture('Signal and System Tutorial EC1',6,5,1);
