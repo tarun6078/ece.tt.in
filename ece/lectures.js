@@ -38,7 +38,7 @@ addLecture('Antennas & Propagation (Tutorial) EC1', 4, 1, 1);
 addLecture('Antennas & Propagation (Tutorial) EC2', 4, 2, 1);
 addLecture('Antennas & Propagation (Tutorial) EC3', 6, 5, 1);
 addLecture('Probability & Statistics (Lecture)', 1, 3, 1);
-addLecture('Probability & Statistics (Lecture)', 1, 5, 2);
+addLecture('Probability & Statistics (Lecture)', 1, 5, 1);
 addLecture('Probability & Statistics (Lecture)', 1, 6, 1);
 addLecture('Probability & Statistics (Tutorial) EC1 ', 4, 4, 1);
 addLecture('Probability & Statistics (Tutorial) EC2', 4, 5, 1);
