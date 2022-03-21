@@ -43,4 +43,4 @@ addLecture('Probability & Statistics (Lecture)', 1, 6, 1);
 addLecture('Probability & Statistics (Tutorial) EC1 ', 4, 4, 1);
 addLecture('Probability & Statistics (Tutorial) EC2', 4, 5, 1);
 addLecture('Probability & Statistics (Tutorial) EC3', 6 , 4, 1);
-addLecture('NSS EC1, EC2, EC3', 6, 6, 3);
+addLecture('NSS EC1, EC2, EC3', 6, 6, 4);
