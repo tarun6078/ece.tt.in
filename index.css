@@ -28,8 +28,12 @@
     transform-origin: 0px 0px;
     position: absolute;
     top: 0px 0px;
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlC0k0wZjoqBzHwiqgEPx_1_mUO24OOKb1BQ&usqp=CAU');
-    background-size: cover;
+   background: url('https://cdn.mwallpapers.com/photos/celebrities/colors/blue-and-pink-background-wallpaper-10241024-pink-and-blue-android-iphone-hd-wallpaper-background-downloadhd-wallpapers-desktop-background-android-iphone-1080p-4k-ydvcz.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
 }
 
 .tileClass {
