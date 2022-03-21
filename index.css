@@ -28,7 +28,8 @@
     transform-origin: 0px 0px;
     position: absolute;
     top: 0px 0px;
-    background-image: url('./backgr.jpg');
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlC0k0wZjoqBzHwiqgEPx_1_mUO24OOKb1BQ&usqp=CAU');
+    background-size: cover;
 }
 
 .tileClass {
