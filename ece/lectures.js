@@ -33,7 +33,7 @@ addLecture('Neural Processing & System (Lecture)', 3, 3, 1);
 addLecture('Neural Processing & System (Lecture)', 2, 5, 1);
 addLecture('COA (Lecture) ', 3, 1, 1);
 addLecture('COA (Lecture)', 2, 4, 1);
-addLecture('NSS EC1, EC2, EC3', 6, 6, 3);
+addLecture('NSS EC1, EC2, EC3', 6, 6, 4);
 addLecture('Open Elective (Lecture)', 4, 1, 1);
 addLecture('Open Elective (Lecture)', 4, 2, 1);
 addLecture('Open Elective (Lecture)', 4, 3, 1);
